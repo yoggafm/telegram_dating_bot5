@@ -4,7 +4,7 @@ import json
 from random import randint
 from pprint import pprint
 
-bot = telebot.TeleBot("1991479685:AAG2f1NodKTqFtNOBdwObC9LhchB-hNi5Js")
+bot = telebot.TeleBot("5728932780:AAFQ-Hz0QAQHIV7j7s8hiH0n6Fj9adfKfhQ")
 
 def row_factory_func(cursor, row):
     if(len(row) == 1):
